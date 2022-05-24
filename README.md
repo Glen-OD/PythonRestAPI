@@ -1,2 +1,3 @@
-# GlenPythonRestApi
+# Cloud computing project
+GlenPythonRestApi
 
